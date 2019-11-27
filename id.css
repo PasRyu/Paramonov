@@ -1,0 +1,14 @@
+#block2 p{
+
+    Color: rgb(197, 116, 186);
+    font-family: Tahoma;
+    font-size: 15px;
+    text-align: right;
+}    
+#block3 p{
+
+    Color: black;
+    font-family: Italic,Tahoma;
+    font-size: 0,2cm;
+    text-align: left;
+}    

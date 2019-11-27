@@ -1,0 +1,31 @@
+.block1 p{
+
+    Color: blue;
+    font-family: 'Times New Roman';
+    font-size: 200%
+    text-align: left;
+}
+.new {
+    color: green;}
+ 
+ .new2 {
+    color: #ff3311;}
+
+   
+ .new3 {
+    color: gray;}
+
+    h3 {
+    Color: gold;
+    font-family: Calibri;
+    font-size: 200%;
+    text-align: Center;
+    }
+
+.stsp ul{
+    list-style-type: none;
+    
+  }
+.stsp  li:before {
+        content:"§";
+    }
