@@ -1,0 +1,98 @@
+.container{
+    width: 100%;
+    height: 50px;
+    
+    margin: auto;
+}
+.block1 {
+    width: 49%;
+    height: 50px;
+    background: blueviolet;
+    float: left;
+    
+}
+.block2 {
+    width: 49%;
+    height: 50px;
+    background: chartreuse;
+     float: right;
+    
+}
+
+.mid {
+    width: 100%;
+    height: 150px;
+    background: chocolate;
+    margin-top: 10px;
+    
+}
+.triplkill {
+    
+        width: 100%;
+        height: 50px;
+        background: seashell;
+        margin-top: 10px;
+}
+#one {
+    width: 33%;
+    height: 70px;
+    background: springgreen;
+    float: right;
+    
+}
+#two {
+    width: 33%;
+    height: 70px;
+    background: teal;
+   margin: auto;
+   
+}
+#three {
+    width: 33%;
+    height: 70px;
+    background: tomato;
+    float: left;
+    margin-top: -70px;
+    
+}
+.bl4 {
+    width: 100%;
+    height: 70px;
+    margin-top: 10px;
+}
+.bl1 {
+    width: 49.5%;
+    height: 70px;
+    margin-top: 10px;
+    float: left;
+}
+#b1{
+    width: 49%;
+    height: 70px;
+    background: green;
+    float: left;
+}
+#b2{
+    width: 49%;
+    height: 70px;
+    background: gray;
+    float: right;
+}
+.bl2{
+    width: 49.5%;
+    height: 70px;
+    margin-top: 10px;
+    float: right;
+}
+#b3{
+    width: 49%;
+    height: 70px;
+    background: green;
+    float: left;
+}
+#b4{
+    width: 49%;
+    height: 70px;
+    background: gray;
+    float: right;
+}

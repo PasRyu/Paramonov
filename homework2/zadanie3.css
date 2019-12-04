@@ -1,0 +1,31 @@
+.full{
+    
+    border: 5px solid black;
+    height: 200px;
+    width:  200px;
+    margin: auto;
+    background-color: white;
+    
+}
+.red {
+    height: 60%;
+    width: 60%;
+    margin-top: 0px;
+    margin-left: 0px;
+    background-color: red;
+}
+.blue {
+    height: 60%;
+    width: 60%;
+    margin-left: 40%;
+    margin-top: -20%;
+    background-color: blue;
+    
+}
+.green{
+    height: 60%;
+    width: 60%;
+    background-color: green;
+    margin: auto;
+    margin-top: -80%;
+}

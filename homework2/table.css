@@ -1,0 +1,22 @@
+table{
+    width: 100%;
+}
+.mini{
+    height: 75px;
+    background: green;
+}
+.mono{
+    height: 150px;
+    background: blue;
+}
+.trio{
+    height: 80px;
+    background: blueviolet;
+    
+}
+
+.sup{
+    width: 25%;
+    height: 80px;
+    background:red;
+    }
